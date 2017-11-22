@@ -6,16 +6,16 @@ One of these projects can be found on my failed YouTube channel, Alexa: Queen Bi
 Further experiments, led me to get 2 Alexa’s to communicate with each other.
 2 of these were quite successful in how they operated:
 
-##Simple Maths
+## Simple Maths
 
 The first was getting 2 Alexa’s to give each other simple math sums.
 Alexa number 1 would give it, the second answer it and provide a new sum.
 
-##Chess
+## Chess
 
 Same premise, except each Alexa has access to a node.js chess board and gives each other a move (it worked, but not being a chess player myself, I never knew whether they were playing … or just lying to each other).
 
-###A year later, I no longer pursue voice as an active interest.
+### A year later, I no longer pursue voice as an active interest.
 
 As such, I thought I would do some house-keeping and present some of my concepts.
 These are no longer actively maintained, but should remain valid. I do believe there is value in having multiple voice devices interacting with people, I am just not sure of how you would implement it in a real-world situation.
@@ -23,9 +23,9 @@ These are no longer actively maintained, but should remain valid. I do believe t
 Pre-requisites: I assume that you have an AWS account and you know how to set up a skill.
 If you don’t, Amazon tutorials are probably the best place to go to learn this. Once you can do a simple example, it is a very small step to deliver more complex skills.
 
-Simple Maths concept and execution
+## Simple Maths concept and execution
 
-Disclaimer: This is a right ball-ache to set up. You need:
+### Disclaimer: This is a right ball-ache to set up. You need:
 
 - 2 Alexa’s in close proximity (warning - they don’t like each other) 
 - 2 AWS accounts set to two different email addresses and to make life easier, both open in different browsers, by two different vendors, ie Chrome and Firefox (yep - that is how you get it to work).
