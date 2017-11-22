@@ -34,4 +34,4 @@ Disclaimer: This is a right ball-ache to set up. You need:
 - The first Alexa, will be given the invocation command of ‘open david’, so the first Alexa (Tilly) will actually initiate the other Alexa’s skill. David will then respond with the first sum (in this case 1+1) and they will cascade from that point on. 
   - This first part is where it gets fun. You use one Alexa to open another. This is the first step of creating a network of Alexa’s and was a jumping point for my concept on Non-Organic Stimuli.
   
-The files in the repro are divided into the 2 Alexa skills. It should be just a question of cutton and pasting them into the associated accounts.
+The files in the repro are divided into the 2 Alexa skills. It should be just a question of pasting them into the associated accounts.
